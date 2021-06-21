@@ -1,5 +1,5 @@
 # SolarBatteryBitcoin
-This fork is an attempt to implement a Python translation of ARK Invest's proof-of-concept Excel model for a solar, battery, and Bitcoin mining system that provides energy to the grid. 
+This fork is a Python implementation of ARK Invest's proof-of-concept Excel model for a solar, battery, and Bitcoin mining system that provides energy to the grid. 
 
 Before you do anything, please read this [blog](https://medium.com/@wintonARK/fc91c5aa9be0?source=friends_link&sk=82dbcae32c8c6868bce7d24644ed6cee) for a more detailed discussion of our assessment.  
  
